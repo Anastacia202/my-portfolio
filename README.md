@@ -1,26 +1,38 @@
-# Screenshot To Pixel Perfect
+ # My Portfolio
 
-Implement exactly the screenshot and nothing else
+Welcome to my portfolio repository! This project showcases my personal web development work, technical projects, and full-stack software development skills.
 
-This project was built with [Lovable](https://lovable.dev).
+---
 
-**Live app**: https://screenshot-to-pixel-perfect-622.lovable.app
+## 🚀 Live Demo
 
-## Build with Lovable
+- **Live Site:** [https://screenshot-to-pixel-perfect-622.lovable.app/]
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/20f38241-f64b-47a3-b4f7-9f1a323e82d3).
+---
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+## 🛠️ Tech Stack & Skills
 
-## Development
+- **Frontend:** React, TypeScript, HTML5, CSS3, Tailwind CSS
+- **Backend & Tools:** Node.js, Git, GitHub, REST APIs
+- **Core Concepts:** Responsive Web Design, UI/UX Implementation, Modern JavaScript
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+---
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+## 📌 Featured Projects
+
+### 1. Project Title
+- **Description:** Brief summary of what this project does and the problems it solves.
+- **Tech Used:** React, TypeScript, Node.js
+- **Key Features:**
+  - Feature 1
+  - Feature 2
+
+---
+
+## 💻 Local Setup & Development
+
+To run this repository locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone <YOUR-REPOSITORY-URL>
